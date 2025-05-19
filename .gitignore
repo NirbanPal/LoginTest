@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# Next.js build output
+/.next/
+/out/
+/node_modules
+
 # testing
 /coverage
 
